@@ -1,6 +1,6 @@
 ### Hello
 
-Software Engineer with a background in R&D and SaaS. Experimenting with bringing engineering practices to Blender workflows.
+Solo Developer with a background in R&D and SaaS. Experimenting with bringing engineering practices to Blender workflows.
 
 ---
 
