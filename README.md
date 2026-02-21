@@ -1,11 +1,3 @@
 ### Hello
 
-Solo Developer with a background in R&D and SaaS. Experimenting with bringing engineering practices to Blender workflows.
-
----
-
-### Tech Stack
-
-* **Primary**: Rust, Kotlin
-* **For Data/Blender**: Python
-* **Read Only**: C++, Java, JavaScript
+Solo Developer. Interested in the highly dynamic nature of the Blender API, and currently experimenting with reflection while reading TAPL.
