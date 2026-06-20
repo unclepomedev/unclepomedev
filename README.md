@@ -1,3 +1,3 @@
 ### Hello
 
-My favorite JoJo is Part 3.
+Building indie games with Bevy. Previously R&D/SaaS. Also writing OSS tools for game development.
