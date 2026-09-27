@@ -1,3 +1,3 @@
 ### Hello
 
-Building indie games with Bevy.
+Building indie games.
