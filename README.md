@@ -1,3 +1,3 @@
 ### Hello
 
-Building indie games.
+Building indie games. | R&D
